@@ -1,0 +1,48 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  picture: paris
+  max_guests: 3
+  bathroom: 1
+  bed_type: "Real Bed"
+  bedroom: 1
+  bed: 1
+  property_type: "Apartment"
+  room_type: "Entire home/apt"
+  about: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur"
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  picture: tokyo
+  max_guests: 10
+  bathroom: 3
+  bed_type: "Real Bed"
+  bedroom: 5
+  bed: 10
+  property_type: "House"
+  room_type: "Entire home/apt"
+  about: "This house lodges 10 people (ther are 4 double beds and 2 single beds) it is located in the city center, in a calm traditional residential area near city´s main Avenue."
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  picture: london
+  max_guests: 4
+  bathroom: 1
+  bed_type: "Real Bed"
+  bedroom: 2
+  bed: 2
+  property_type: "Apartment"
+  room_type: "Entire home/apt"
+  about: "This 2 bedrooms apartment lodges 4 people (there are 2 double beds) it is located in the city center, in a calm traditional residential area near city´s main Avenue"

@@ -1,0 +1,21 @@
+.wrapper-white{
+  background-color: white;
+}
+
+.wrapper-grey{
+  background-color: $light-gray;
+  margin:10px;
+  padding:10px;
+}
+
+
+.flat-details{
+  font-size:12px;
+}
+.flat-description{
+  border-bottom: solid 1px $medium-gray;
+}
+
+.flat-space{
+  margin-top: 10px;
+}
